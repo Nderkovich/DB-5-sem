@@ -1,0 +1,6 @@
+Here's my favorite story on recursion: it happened that a famous Darwinist was
+telling a story about primitive creation myths. "Some peoples," he said, "believe the
+world rests on the back of a great turtle. Of course, that raises the question: on what
+does the turtle rest?"
+An elderly woman from the back of the room stood up and said, "Very clever,
+Sonny, but it's turtles, all the way down."
